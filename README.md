@@ -99,11 +99,11 @@ global.sp = '🔵'
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
 global.alive =`Hello i am alive now
 
-Download song type .yt 
+جاري تحميل الفيديو إنتظر قليلا .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
+🌀 شكرا الاستعمالك بوتنا
 ✾ Some bugs fixing
 😼♥️
 `
@@ -115,11 +115,11 @@ global.sendgoodbye = `remove`
 global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃` // Add your caption ♥ 
 global.mess = {
     success: '✅ Done!',
-    admin: 'you must be admin to use this cmd!',
+    admin: 'المشرف من يملك حق استعمال هذا الامر!',
     botAdmin: 'Bot must be admin neh!',
-    owner: 'This cmd is for Elisa bot owner only',
-    group: 'oooh sorry this cmd is for groups only!',
-    private: 'goossssh it can only used in dms!',
+    owner: 'رقم المشرف هوا 0777765558 إنضم للمجموعة فربما سيتم حظرك https://chat.whatsapp.com/IXDkeu7UEcE7VxiF2CDtGl',
+    group: 'رابط المجموعة https://chat.whatsapp.com/IXDkeu7UEcE7VxiF2CDtGl!',
+    private: 'goos Elisa bot processing sssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
     wait: 'Wait Elisa bot processing ',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
